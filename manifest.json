@@ -1,1 +1,35 @@
+<<<<<<< HEAD
 {"files":[{"id":"gambling","minAppVersion":1,"sha256":"7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6","url":"https://raw.githubusercontent.com/Daifyyy/HazardBlock/master/lists/gambling.txt"},{"id":"ads","minAppVersion":1,"sha256":"7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6","url":"https://raw.githubusercontent.com/Daifyyy/HazardBlock/master/lists/ads.txt"},{"id":"affiliate","minAppVersion":1,"sha256":"7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6","url":"https://raw.githubusercontent.com/Daifyyy/HazardBlock/master/lists/affiliate.txt"},{"id":"doh","minAppVersion":1,"sha256":"7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6","url":"https://raw.githubusercontent.com/Daifyyy/HazardBlock/master/lists/doh.txt"}],"publishedAt":"2026-01-08T00:00:00Z","ttlHours":6,"version":1}
+=======
+{
+  "version": 12,
+  "publishedAt": "2026-01-08T00:00:00Z",
+  "ttlHours": 6,
+  "files": [
+    {
+      "id": "gambling",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/gambling.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    },
+    {
+      "id": "ads",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/ads.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    },
+    {
+      "id": "affiliate",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/affiliate.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    },
+    {
+      "id": "doh",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/doh.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    }
+  ]
+}
+>>>>>>> 1a533ce1236645dfbf6a09118fe62a71293ea7b0
