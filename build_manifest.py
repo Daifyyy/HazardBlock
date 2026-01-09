@@ -5,12 +5,12 @@ from nacl.signing import SigningKey
 GITHUB_USER = "TVUJ_USERNAME"
 REPO = "HazardBlock"
 BRANCH = "main"
-BASE_RAW = f"https://raw.githubusercontent.com/{GITHUB_USER}/{REPO}/{BRANCH}/"
+BASE_RAW = f"https://raw.githubusercontent.com/Daifyyy/HazardBlock/master/"
 
 FILES = ["gambling.txt", "ads.txt", "affiliate.txt", "doh.txt"]
 
 # Vlož PRIVATE_KEY_BASE64 z gen_keys.py
-PRIVATE_KEY_B64 = "SEM_VLOZ_PRIVATE_KEY_BASE64"
+PRIVATE_KEY_B64 = "JskGvkaDUkQvSc59fe0iJ3VosU1XFevMQw5pwg95KQo="
 
 sk = SigningKey(base64.b64decode(PRIVATE_KEY_B64))
 
