@@ -1,0 +1,31 @@
+{
+  "version": 12,
+  "publishedAt": "2026-01-08T00:00:00Z",
+  "ttlHours": 6,
+  "files": [
+    {
+      "id": "gambling",
+      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/gambling.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    },
+    {
+      "id": "ads",
+      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/ads.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    },
+    {
+      "id": "affiliate",
+      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/affiliate.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    },
+    {
+      "id": "doh",
+      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/doh.txt",
+      "sha256": "<hex>",
+      "minAppVersion": 1
+    }
+  ]
+}
