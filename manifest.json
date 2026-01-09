@@ -5,25 +5,25 @@
   "files": [
     {
       "id": "gambling",
-      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/gambling.txt",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/gambling.txt",
       "sha256": "<hex>",
       "minAppVersion": 1
     },
     {
       "id": "ads",
-      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/ads.txt",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/ads.txt",
       "sha256": "<hex>",
       "minAppVersion": 1
     },
     {
       "id": "affiliate",
-      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/affiliate.txt",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/affiliate.txt",
       "sha256": "<hex>",
       "minAppVersion": 1
     },
     {
       "id": "doh",
-      "url": "https://raw.githubusercontent.com/<org>/<repo>/main/lists/doh.txt",
+      "url": "https://raw.githubusercontent.com/Daifyyy/HazardBlock/main/lists/doh.txt",
       "sha256": "<hex>",
       "minAppVersion": 1
     }
